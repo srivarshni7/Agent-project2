@@ -1,0 +1,9 @@
+Patient presents with fever and cough for three days.
+
+Temperature is 39 C.
+
+Chest examination shows abnormal breath sounds.
+
+The physician documents respiratory infection.
+
+Treatment includes medication and rest.

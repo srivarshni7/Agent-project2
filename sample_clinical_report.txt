@@ -1,0 +1,11 @@
+Patient presents with fever, cough, and shortness of breath for five days.
+
+Temperature: 38.2 C.
+
+Chest X-ray shows right lower lobe infiltrate.
+
+White blood cell count is elevated.
+
+The physician documents pneumonia.
+
+Treatment includes antibiotics and rest.
